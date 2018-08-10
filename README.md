@@ -7,4 +7,5 @@ data collected from: https://www.csdojo.io/data
 
 To run this project you have to install jupyter-notebook.
 Then execute the commands below.
-<b>git clone https://github.com/MarufurRahman/population-of-japan-graph.git</b>
+s = "git clone https://github.com/MarufurRahman/population-of-japan-graph.git"
+print s
