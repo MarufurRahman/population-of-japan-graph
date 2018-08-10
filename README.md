@@ -1,7 +1,7 @@
 # population-of-japan-graph
 visualization of population of japan using python.
 
-data collected from: https://www.csdojo.io/data
+data collected from: [csdojo.io](https://www.csdojo.io/data)
 
 
 # Run on your linux machine
