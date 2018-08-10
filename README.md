@@ -15,5 +15,5 @@ git clone https://github.com/MarufurRahman/population-of-japan-graph.git
 cd population-of-japan-graph/
 ```
 ```
-jupyter-notebook population of japan graph.ipynb
+jupyter-notebook population\ of\ japan\ graph.ipynb
 ```
